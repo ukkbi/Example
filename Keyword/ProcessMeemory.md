@@ -1,6 +1,7 @@
 ﻿# 프로세스 메모리 구역
+<img src="../imgs/KakaoTalk_20260630_213858734.png" width="300" height="150"></image>
 - 정의
-    - ![ProcessMemory]("../imgs/KakaoTalk_20260630_213858734.png")
+    <!--  ![ProcessMemory]("../imgs/KakaoTalk_20260630_213858734.png") -->
     - Ram에 프로세스....
     - 총 5가지 메모리로/...
 - 메모리 종류
@@ -11,3 +12,4 @@
     1. 스택 영역
     2. 테스트
 
+    
